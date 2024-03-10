@@ -47,7 +47,9 @@
 </div>
 
 ## 사용방법
-1. uvicorn main:app --reload로 사용
+0. model 폴더의 분활파일 전체 압축 풀기
+1. chatjjock40.pth파일 /server로 복사 or 이동
+2. /server에서 uvicorn main:app --reload 페이지 구동
 
 # 사용 화면
 
